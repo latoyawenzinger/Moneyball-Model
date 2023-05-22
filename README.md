@@ -8,9 +8,9 @@
 The goal of this project is to build the best team on the lowest budget. 
 	
 ## Datasets to Be Used:
-1.	Spotrac.com MLB 2022 Salary Data
-2.	https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats?q=MLB+in%3Adatasets&select=2022+MLB+Player+Stats+-+Batting.csv
-3.	https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats?q=MLB+in%3Adatasets&select=2022+MLB+Player+Stats+-+Pitching.csv
+1.	[**Spotrac.com MLB 2022 Salary Data**](https://www.spotrac.com/mlb/payroll/2022/)
+2.	[**Pitcher Data**](https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats?q=MLB+in%3Adatasets&select=2022+MLB+Player+Stats+-+Batting.csv)
+3.	[**Batting Data**](https://www.kaggle.com/datasets/vivovinco/2022-mlb-player-stats?q=MLB+in%3Adatasets&select=2022+MLB+Player+Stats+-+Pitching.csv)
 
 
 **MONEYBALL Analytics Project**
