@@ -59,9 +59,8 @@ Areas of Interest from a Pitching perspective
 ERA or Earned Run Average (9 * ER/IP)
 WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 
-Rough Breakdown of the Tasks:
-
-
-
-
-	
+## **Rough Breakdown of the Tasks:**
+Ulrich - Simulation software to see how effective the machine learning model is
+Matteus - Machine Learning of Pitcher data 
+Candy - Machine Learning of Batting data
+Latoya - Tableau Dashbord
