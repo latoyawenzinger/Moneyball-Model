@@ -5,7 +5,7 @@
 -	Film released in 2011
 
 ## Project Description/Outline:
-	 The goal of this project is to build the best team on the lowest budget. 
+The goal of this project is to build the best team on the lowest budget. 
 	
 ## Datasets to Be Used:
 1.	Spotrac.com MLB 2022 Salary Data
