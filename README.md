@@ -14,10 +14,7 @@
 
 
 **MONEYBALL Analytics Project**
-Machine Learning Project using 2 key offensive and pitching metrics to assemble the 
-best fantasy lineup possible with a budget of $75 Million. Results of 2022 player analysis
-will be compared to real world results for the 2023 season and also compared to simulations
-completed using the video game MLB The Show 23 for some extra insights into our results.
+Machine Learning Project using 2 key offensive and pitching metrics to assemble the best fantasy lineup possible with a budget of $75 Million. Results of 2022 player analysis will be compared to real world results for the 2023 season and also compared to simulations completed using the video game MLB The Show 23 for some extra insights into our results.
 
 *If Starting Pitching appearances do not match up to formula numbers will be prorated
 **If Relief Pitchers do not have 81 IP, numbers will be prorated
@@ -60,7 +57,7 @@ ERA or Earned Run Average (9 * ER/IP)
 WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 
 ## **Rough Breakdown of the Tasks:**
-Ulrich - Simulation software to see how effective the machine learning model is
-Matteus - Machine Learning of Pitcher data 
-Candy - Machine Learning of Batting data
-Latoya - Tableau Dashbord
+- Ulrich - Simulation software to see how effective the machine learning model is
+- Matteus - Machine Learning of Pitcher data 
+- Candy - Machine Learning of Batting data
+- Latoya - Tableau Dashbord
