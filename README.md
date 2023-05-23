@@ -1,4 +1,4 @@
-# Moneyball-For-Dummies
+# Moneyball-Model
 
 ## Project Idea: Money Ball 
 -	Book: Moneyball - The Art of Winning an Unfair Game, written by Michael Lewis (2003) - The Oakland Athletics baseball team and its general manager Billy Beane assemble a competitive baseball team despite Oakland's small budget; Its focus is the team's analytical, evidence-based, sabermetric approach.
