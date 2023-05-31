@@ -5,7 +5,7 @@
 -	Film released in 2011
 
 ## Project Description/Outline:
-The goal of this project is to build the best team on the lowest budget. [CLICK HERE](https://public.tableau.com/app/profile/latoya.wenzinger/viz/Moneyball_16852168288720/MoneyballThePriceisRight) to view our Moneyball data dashboard!
+The goal of this project is to build the best team on the lowest budget via machine learning. A tableau dashboard will help to visualize how the machine learned team holds up against the actual MLB league. [CLICK HERE](https://public.tableau.com/app/profile/latoya.wenzinger/viz/Moneyball_16852168288720/MoneyballThePriceisRight) to view our Moneyball data dashboard!
 	
 ## Datasets to Be Used:
 1.	[**Spotrac.com MLB 2022 Salary Data**](https://www.spotrac.com/mlb/payroll/2022/)
