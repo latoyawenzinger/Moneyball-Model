@@ -5,7 +5,7 @@
 -	Film released in 2011
 
 ## Project Description/Outline:
-The goal of this project is to build the best team on the lowest budget. 
+The goal of this project is to build the best team on the lowest budget. (CLICK HERE) to view our Moneyball data dashboard [https://public.tableau.com/app/profile/latoya.wenzinger/viz/Moneyball_16852168288720/MoneyballThePriceisRight]
 	
 ## Datasets to Be Used:
 1.	[**Spotrac.com MLB 2022 Salary Data**](https://www.spotrac.com/mlb/payroll/2022/)
@@ -60,4 +60,4 @@ WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 - Ulrich - Simulation software to see how effective the machine learning model is
 - Mateus - Machine Learning of Pitcher data 
 - Candy - Machine Learning of Batting data
-- Latoya - Tableau Dashbord
+- Latoya - Tableau Dashboard
