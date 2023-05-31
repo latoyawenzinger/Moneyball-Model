@@ -61,3 +61,7 @@ WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 - Mateus - Machine Learning of Pitcher data 
 - Candy - Machine Learning of Batting data
 - Latoya - Tableau Dashboard
+
+## **Resources**
+- [Dashboard background](https://wall.alphacoders.com/big.php?i=584499)
+- [MLB logo](https://en.wikipedia.org/wiki/Major_League_Baseball_logo)
