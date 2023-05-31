@@ -1,11 +1,11 @@
-# Moneyball-For-Dummies
+# Moneyball-Model
 
 ## Project Idea: Money Ball 
 -	Book: Moneyball - The Art of Winning an Unfair Game, written by Michael Lewis (2003) - The Oakland Athletics baseball team and its general manager Billy Beane assemble a competitive baseball team despite Oakland's small budget; Its focus is the team's analytical, evidence-based, sabermetric approach.
 -	Film released in 2011
 
 ## Project Description/Outline:
-The goal of this project is to build the best team on the lowest budget. 
+The goal of this project is to build the best team on the lowest budget via machine learning. A tableau dashboard will help to visualize how the machine learned team holds up against the actual MLB league. [CLICK HERE](https://public.tableau.com/app/profile/latoya.wenzinger/viz/Moneyball_16852168288720/MoneyballThePriceisRight) to view our Moneyball data dashboard!
 	
 ## Datasets to Be Used:
 1.	[**Spotrac.com MLB 2022 Salary Data**](https://www.spotrac.com/mlb/payroll/2022/)
@@ -60,4 +60,10 @@ WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 - Ulrich - Simulation software to see how effective the machine learning model is
 - Mateus - Machine Learning of Pitcher data 
 - Candy - Machine Learning of Batting data
-- Latoya - Tableau Dashbord
+- Latoya - Tableau Dashboard
+
+## **Resources**
+- [Dashboard background](https://wall.alphacoders.com/big.php?i=584499)
+- [MLB logo](https://en.wikipedia.org/wiki/Major_League_Baseball_logo)
+- [Batting/Pitching Stats](https://www.baseball-reference.com/leagues/majors/2023.shtml)
+- [Payroll](https://www.spotrac.com/mlb/payroll/2022/)
