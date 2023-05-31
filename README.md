@@ -65,3 +65,5 @@ WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 ## **Resources**
 - [Dashboard background](https://wall.alphacoders.com/big.php?i=584499)
 - [MLB logo](https://en.wikipedia.org/wiki/Major_League_Baseball_logo)
+- [Batting/Pitching Stats](https://www.baseball-reference.com/leagues/majors/2023.shtml)
+- [Payroll](https://www.spotrac.com/mlb/payroll/2022/)
