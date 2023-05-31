@@ -56,9 +56,8 @@ Areas of Interest from a Pitching perspective
 ERA or Earned Run Average (9 * ER/IP)
 WHIP or Walks/Hits per Innings Pitched (Stat will be taken as is)
 
-PRESENTATION:
-
-https://docs.google.com/presentation/d/1jFBpAJDYhl8Y_n3h5P6vWq3aUKcZfueL9iFhf2bJxk0/edit#slide=id.g24d02b5645f_0_268
+## **Presentation**
+[CLICK HERE](https://docs.google.com/presentation/d/1jFBpAJDYhl8Y_n3h5P6vWq3aUKcZfueL9iFhf2bJxk0/edit#slide=id.g24d02b5645f_0_268) to visit our group presentation.
 
 
 ## **Rough Breakdown of the Tasks:**
